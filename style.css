@@ -29,15 +29,16 @@
 }
 
 .circle{
-    border: 1px solid yellow;
+    border: 1px solid rgb(158, 158, 97);
     border-radius: 50%;
     height: 70px;
     width: 70px;
+    /* padding-top: 5rem; */
 }
 .circle:hover{
-    background-color: rgb(155, 102, 11);
+    background-color: rgb(234, 214, 181);
     cursor: pointer;
-    transition: all 0.3s;
+    transition: all 1s;
 }
 
 .buttons{
