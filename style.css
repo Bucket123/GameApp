@@ -33,7 +33,7 @@
     border-radius: 50%;
     height: 70px;
     width: 70px;
-    /* padding-top: 5rem; */
+    
 }
 .circle:hover{
     background-color: rgb(234, 214, 181);
